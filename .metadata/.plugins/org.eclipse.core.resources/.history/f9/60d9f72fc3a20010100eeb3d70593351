@@ -1,0 +1,27 @@
+/*
+ * autor: Joaquin Grippi
+ * Descripcion: Un programa que pide una serie de datos pra calcular la media de 4 compras y si supera los 300 euros entregar un cupon de 50 euros
+ * Fecha:06/10/2025
+ * 
+ */
+
+
+package ejercicio5;
+
+import java.util.Scanner;
+
+public class Ejercicio5 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		
+		String nombre;
+		String apellidos;
+		String cicloFormativo;
+		int notaAcademica;
+		
+		System.out.print("Escribe 
+
+	}
+
+}

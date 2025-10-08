@@ -1,0 +1,10 @@
+package ejOperadoresBasicos;
+
+public class ConversionDeTipo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

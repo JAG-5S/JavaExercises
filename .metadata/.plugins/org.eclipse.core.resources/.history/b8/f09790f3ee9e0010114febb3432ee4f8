@@ -1,0 +1,35 @@
+/*
+ * Autor: 
+ * Descripcion: Realiza un Programa que solicite Nombre, Apellidos, Fecha de nacimiento y Salario Bruto. Posteiormente realizar un programa que calcule el salario Neto.
+ * Fecha: 01/10/25
+ */
+
+
+
+package ejercicio1;
+
+import java.util.Scanner;
+
+public class Ejercicio1 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		
+		String nombre;
+		String apellidos;
+		double fechaDeNacimiento;
+		double salarioBruto;
+		
+		System.out.print("Escribe Tu Nombre: ");
+		nombre = teclado.nextLine();
+		System.out.print("Escribe Tus Apellidos: ");
+		apellidos = teclado.nextLine();
+		System.out.print("Escribe Tu Fecha de Nacimiento: ");
+		fechaDeNacimiento = teclado.nextDouble();
+		System.out.print("Escribe Tu Salario Bruto: ");
+		salarioBruto = teclado.nextDouble();
+		
+
+	}
+
+}

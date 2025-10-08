@@ -1,0 +1,35 @@
+/*
+ * Autor: JoaquinGrippi
+ * Descripcion: intercambiar los valores de las variables num1 y num2
+ * Fecha: 01/10/25
+ * 
+ */
+
+
+package ejercicio5;
+
+import java.util.Scanner;
+
+public class Ejercicio5 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		
+		double num1 ;
+		double num2 ;
+		
+		System.out.print("Introduce el valor de la variable num1: ");
+		num1 = teclado.nextDouble();
+		System.out.print("Introduce el valor de la variable num2: ");
+		num2 = teclado.nextDouble();
+		
+		if (num1 < num2) ;
+			System.out.println("La variable num1 es menor: " + num1);
+		if (num1 > num2); 
+			System.out.println("La variable num2 es menor: " + num2);
+		
+		
+
+	}
+
+}

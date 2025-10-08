@@ -1,0 +1,32 @@
+package calcularNotaExamen;
+
+import java.util.Scanner;
+public class Calcule {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		
+		int num1;
+		int num2;
+		System.out.print("Tienes un examen ( Cuantas preguntas acertataste y cuantas no? no pueden ser mas de 20 preguntas.");
+		System.out.print("Numero de preguntas acertadadas: ");
+		num1 = teclado.nextInt();
+		System.out.print("Numero de preguntas Falladas: ");
+		num2 = teclado.nextInt();
+		
+		int numTotal = num1 + num2;
+		
+		if (numTotal >= 0 && numTotal <= 20 ) {
+			int nota = num1 - (num2/2);
+			System.out.print("Tu Nota es: " + nota);
+			
+		}
+		else {
+			System.out.print("Datos erroneos");
+		}
+		
+		
+
+	}
+
+}

@@ -1,0 +1,21 @@
+
+
+package ejercicio2;
+
+import java.util.Scanner;
+
+public class Ejercicio2 {
+
+	public static void main(String[] args) {
+		Scannner teclado = new Scanner(System.in);
+		
+		String nombre;
+		int edad ;
+		double notaAcademica;
+		
+		System.out.print("Escribe tu nombre: ");
+		nombre = 
+
+	}
+
+}

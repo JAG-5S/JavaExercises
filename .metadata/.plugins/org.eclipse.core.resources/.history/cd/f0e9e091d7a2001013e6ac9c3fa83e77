@@ -1,0 +1,18 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.
+ * Fecha:03/10/25
+ */
+
+
+package ejercicio5;
+
+public class Ejercicio5 {
+
+	public static void main(String[] args) {
+		
+		System.out.print("\t *" + "\n\t ***" +  "\n\t *****" + "\n\t ******" + "\n\t*******" + "\n\t********" + "\n\t*********"); 
+
+	}
+
+}

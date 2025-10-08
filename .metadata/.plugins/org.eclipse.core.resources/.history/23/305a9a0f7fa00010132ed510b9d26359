@@ -1,0 +1,19 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa que muestre tu horario de clase. Puedes usar espacios o tabuladores para alinear el texto.
+ * Fecha:03/10/25
+ */
+
+
+package ejercicio4;
+
+public class Ejercicio4 {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Horarios de DAW1" + "\nLunes" + "\tMartes" + "\tMiercoles" + "\tJueves" + "\tViernes" + "\tHoras" + "\nBD" + "\tIPE1" + "\tDIG" + "\tBD" + "\tSI" + "\t3:15");
+		
+
+	}
+
+}
