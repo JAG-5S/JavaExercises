@@ -12,27 +12,25 @@ public class Bucles2 {
 		numInicial = teclado.nextInt();
 		System.out.print("Introduce el numero Final: ");
 		numFinal = teclado.nextInt();
-		
-		
-		if (numInicial < numFinal) {
-			System.out.println("Secuencia del " + numInicial + " al " + numFinal);
-			while (numInicial <= numFinal) {
-				
-				System.out.print(numInicial + " ");
-				numInicial = numInicial + 1 ;
+		do {
+			if (numInicial <= numFinal) {
+				System.out.println(numInicial);
+				numInicial++;
+			} else {
+				System.out.println(numInicial);
+				numInicial--;
 			}
-			
-			
-		}
 		
-		else {
-			System.out.println("Secuencia del " + numFinal + " al " + numInicial);
-			while (numFinal <= numInicial) {
-				
-				System.out.print(numInicial + " ");
-				numInicial = numInicial - 1 ;
-			}
-		}
+			
+		}while (numInicial != numFinal );
+		
+		
+		
+		
+		
+		
+		
 	}
-
 }
+
+
