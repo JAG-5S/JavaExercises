@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion: Bucle en el que se ingresa una serie de numeros el cual se detiene cuando el numero es 0, posteriormente muestra el total de numeros introducidos y la suma total.
+ * Fecha:20/10/25
+ */
 package ejercicio4;
 
 import java.util.Scanner;

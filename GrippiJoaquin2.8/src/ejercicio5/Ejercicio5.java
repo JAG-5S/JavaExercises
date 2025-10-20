@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Pedir 10 números. Mostrar la media de los números positivos, la media de los números negativos y la cantidad de ceros.
+ * Fecha:20/10/25
+ */
 package ejercicio5;
 
 import java.util.Scanner;
