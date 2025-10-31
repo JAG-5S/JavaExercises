@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que calcule el valor A elevado a B (A^B) sin hacer uso del operador depotencia (^), siendo A y B valores introducidos por teclado, y luego muestre el resultado porpantalla.
+ * Fecha: 24/10/25
+ */
 package ejercicio12;
 import java.util.Scanner;
 public class Ejercicio12 {

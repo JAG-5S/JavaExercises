@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que suma independientemente los pares y los impares de los números comprendidos entre 100 y 200, y luego muestra por pantalla ambas sumas.
+ * Fecha: 24/10/25
+ */
 package ejercicio11;
 
 public class Ejercicio11 {

@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que calcula y escribe la suma y el producto de los 10 primeros números naturales.
+ * Fecha: 24/10/25
+ */
 package ejercicio9;
 
 public class Ejercicio9 {

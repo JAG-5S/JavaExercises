@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que muestre los números pares comprendidos entre el 1 y el 200. Esta vez utiliza un contador sumando de 1 en 1.
+ * Fecha: 24/10/25
+ */
 package ejercicio3;
 
 public class Ejercicio3 {

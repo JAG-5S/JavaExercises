@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que lea 100 números no nulos y luego muestre un mensaje de si ha leído algún número negativo o no.
+ * Fecha: 24/10/25
+ */
 package ejercicio6;
 import java.util.Scanner;
 public class Ejercicio6 {

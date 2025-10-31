@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que muestre los números desde el 1 hasta un número N que se introducirá por teclado.
+ * Fecha: 24/10/25
+ */
 package ejercicio4;
 import java.util.Scanner;
 public class Ejercicio4 {

@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que lee una secuencia de notas (con valores que van de 0 a 10) que termina con el valor -1 y nos dice si hubo o no alguna nota con valor 10.
+ * Fecha: 24/10/25
+ */
 package ejercicio10;
 import java.util.Scanner;
 public class Ejercicio10 {

@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que lea un número positivo N y calcule y visualice su factorial N!
+ * Fecha: 24/10/25
+ */
 package ejercicio5;
 import java.util.Scanner;
 public class Ejercicio5 {

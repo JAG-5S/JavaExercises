@@ -1,3 +1,8 @@
+/*
+ * Autor:Joaquin Grippi
+ * Descripcion:Escribe un programa Java que lea 100 números no nulos y luego muestre un mensaje indicando cuántos son positivos y cuantos negativos.
+ * Fecha: 24/10/25
+ */
 package ejercicio7;
 import java.util.Scanner;
 public class Ejercicio7 {
