@@ -8,17 +8,17 @@ public class Ejercicio9 {
 		Scanner teclado = new Scanner(System.in);
 	int valorN;
 	int numeros[] = new int[100];
-	for (int i = 0; i <= 101; i++) {
+	for (int i = 0; i < numeros.length; i++) {
 		numeros[i] =(int) (1	 + Math.random() * 10);
 		System.out.println(numeros[i]);
 		}
 	System.out.println("Introduce un numero: ");
 	valorN = teclado.nextInt();
 	
-	for (int i = 0; i <= numeros.length; i++ ) {
+	for (int i = 0; i < numeros.length; i++ ) {
 		
 		if (valorN == numeros[i]) {
-			System.out.println("En la posicion " + numeros.length + " el valor es " + valorN );
+			System.out.println("En la posicion " + i + " el valor es " + valorN );
 			} else { 
 			}
 		}
