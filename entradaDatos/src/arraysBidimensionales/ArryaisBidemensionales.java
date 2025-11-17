@@ -39,6 +39,7 @@ public class ArryaisBidemensionales {
 	
 		}
 	}
+	//Asigna la temperatura a lo largo del Array
 	public static void asignarTemp(int[][] temperatura) {
 		
 		for (int mes=0; mes< temperatura.length; mes++) {
@@ -47,6 +48,7 @@ public class ArryaisBidemensionales {
 			}
 		}
 	}
+	//Muestra la temp por dia y mes
 	public static void mostrarTemp(int[][] temperatura) {
 	for (int mes=0; mes<temperatura.length; mes++) {
 			
@@ -56,6 +58,8 @@ public class ArryaisBidemensionales {
 				System.out.println();
 			}
 	}
+	
+	//Muestra el dia que hubo la temp mas alta
 	public static void maxTemp(int[][] temperatura) {
 		int diaMaxCalor = 0;
 		for (int mes=0; mes<temperatura.length; mes++) {

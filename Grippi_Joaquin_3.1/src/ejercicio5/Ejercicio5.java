@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion: Crea un programa que pida veinte números reales por teclado, los almacene en un array y luego lo recorra para calcular y mostrar la media: (suma de valores) / nº de valores. 
+ * Fecha: 13/11/25
+ */
 package ejercicio5;
 
 import java.util.Scanner;

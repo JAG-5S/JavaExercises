@@ -1,3 +1,9 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion: Secuencia de numeros hasta el 10.
+ * Fecha: 13/11/25
+ */
+
 package ejercicio14;
 
 public class Ejercicio14 {

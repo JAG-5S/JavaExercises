@@ -1,3 +1,9 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion: Secuencia aritmetica que comienza con un valor inicial y uno secuencial.
+ * Fecha: 13/11/25
+ */
+
 package ejercicio13;
 import java.util.Scanner;
 public class Ejercicio13 {

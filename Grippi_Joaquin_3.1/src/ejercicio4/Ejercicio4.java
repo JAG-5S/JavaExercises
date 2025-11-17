@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion: Crear un programa y mostrar maximos y minimos de valores sintroducirdos
+ * Fecha: 13/11/25
+ */
 package ejercicio4;
 import java.util.Scanner;
 public class Ejercicio4 {

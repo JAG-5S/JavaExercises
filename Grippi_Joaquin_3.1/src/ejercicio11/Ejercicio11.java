@@ -1,3 +1,10 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion:programa donde se debe mostrar un array y su orden inverso
+ * Fecha: 13/11/25
+ */
+
+
 package ejercicio11;
 
 public class Ejercicio11 {

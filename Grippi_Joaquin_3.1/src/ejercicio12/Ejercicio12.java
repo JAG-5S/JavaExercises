@@ -1,3 +1,9 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion:  Programa que muestra un panel de accion que permite cargar numeros en un array hasta 10 veces.
+ * Fecha: 13/11/25
+ */
+
 package ejercicio12;
 import java.util.Scanner;
 public class Ejercicio12 {

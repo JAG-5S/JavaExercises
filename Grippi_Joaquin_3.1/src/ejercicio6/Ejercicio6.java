@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que pide dos valores enteros y posteriormente cree un array con el tamaño de n y m en todas sus posiciones.
+ * fecha: 13/11/25
+ */
 package ejercicio6;
 import java.util.Scanner;
 public class Ejercicio6 {

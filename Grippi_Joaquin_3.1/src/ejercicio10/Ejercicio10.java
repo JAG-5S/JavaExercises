@@ -1,3 +1,11 @@
+/*
+ * Autor: Joaquin Adrian Grippi
+ * Descripcion: Programa para realizar calculos relacionados a la altura.
+ * Fecha: 13/11/25
+ */
+
+
+
 package ejercicio10;
 import java.util.Scanner;
 public class Ejercicio10 {

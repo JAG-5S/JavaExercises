@@ -1,3 +1,9 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion:Crea un programa que pida dos valores enteros P y Q, luego cree un array que contenga
+todos los valores desde P hasta Q, y lo muestre por pantalla.
+ * fecha: 13/11/25
+ */
 package ejercicio7;
 
 import java.util.Scanner;
