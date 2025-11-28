@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que hace una piramide 
+ * Fecha: 24/11/25
+ */
 package ejercicio14;
 
 public class Ejercicio14 {

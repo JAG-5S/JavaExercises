@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que calcula el sumatorio y producto de 1 a un num introducido por teclado 
+ * Fecha: 24/11/25
+ */
 package ejercicio8;
 import java.util.Scanner;
 public class Ejercicio8 {

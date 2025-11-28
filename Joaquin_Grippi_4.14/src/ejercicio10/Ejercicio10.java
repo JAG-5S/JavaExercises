@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que nos dice si una fecha es correcta
+ * Fecha: 24/11/25
+ */
 package ejercicio10;
 import java.util.Scanner;
 public class Ejercicio10 {

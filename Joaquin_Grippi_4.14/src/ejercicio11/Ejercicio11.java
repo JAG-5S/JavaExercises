@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que nos entrega la tabla de multiplciar de un numero. 
+ * Fecha: 24/11/25
+ */
 package ejercicio11;
 import java.util.Scanner;
 public class Ejercicio11 {

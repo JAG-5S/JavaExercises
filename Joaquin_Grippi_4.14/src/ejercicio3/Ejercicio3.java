@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que te dice cual numero es menor de tres
+ * Fecha: 24/11/25
+ */
 package ejercicio3;
 import java.util.Scanner;
 public class Ejercicio3 {

@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que calcula el porcentaje de descuento. 
+ * Fecha: 24/11/25
+ */
 package ejercicio13;
 import java.util.Scanner;
 public class Ejercicio13 {

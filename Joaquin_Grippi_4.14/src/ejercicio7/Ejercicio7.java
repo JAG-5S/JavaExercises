@@ -1,3 +1,9 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que calcula el perimetro y el area de un rectangulo
+ * Fecha: 24/11/25
+ */
+
 package ejercicio7;
 import java.util.Scanner;
 public class Ejercicio7 {

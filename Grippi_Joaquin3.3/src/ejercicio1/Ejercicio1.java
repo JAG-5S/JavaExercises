@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Crea un programa que pida una cadena de texto por teclado y luego muestre cada palabra de la cadena en una línea distinta.
+ * Fecha: 24/11/25
+ */
 package ejercicio1;
 import java.util.Scanner;
 public class Ejercicio1 {

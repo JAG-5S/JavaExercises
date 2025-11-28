@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que pasa kilometros a millas. 
+ * Fecha: 24/11/25
+ */
 package ejercicio12;
 import java.util.Scanner;
 public class Ejercicio12 {

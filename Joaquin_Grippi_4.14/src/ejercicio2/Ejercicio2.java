@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: programa que comprueba si eres mayor de edad. 18+
+ * Fecha: 24/11/25
+ */
 package ejercicio2;
 import java.util.Scanner;
 public class Ejercicio2 {
@@ -13,7 +18,7 @@ public class Ejercicio2 {
 		System.out.print("Es mayor de edad: " + esMayor);
 		
 	}
-	
+	//Funcion que devuelve mayoria de edad
 	public static boolean esMayorEdad(int a) {
 		boolean mayoria;
 		if (a >= 18) {

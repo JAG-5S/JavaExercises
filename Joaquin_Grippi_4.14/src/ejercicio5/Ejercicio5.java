@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Pasar millas a kilometros
+ * Fecha: 24/11/25
+ */
 package ejercicio5;
 import java.util.Scanner;
 public class Ejercicio5 {

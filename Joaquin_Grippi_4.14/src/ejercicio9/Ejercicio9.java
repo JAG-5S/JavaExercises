@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que nos pide tres valores y valvula el menor de tres. 
+ * Fecha: 24/11/25
+ */
 package ejercicio9;
 import java.util.Scanner;
 public class Ejercicio9 {

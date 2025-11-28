@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Nos dice si el numero es negativo, cero o positivo 
+ * Fecha: 24/11/25
+ */
 package ejercicio4;
 import java.util.Scanner;
 public class Ejercicio4 {
@@ -19,6 +24,8 @@ public class Ejercicio4 {
 		
 	
 	}
+	
+	//Funcion que devuelve un signo
 	public static int dimeSigno(int a) {
 		
 		

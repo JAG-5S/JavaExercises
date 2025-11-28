@@ -28,6 +28,7 @@ public class ManipulacionObjetos {
 		System.out.println(coordenadaX);
 		
 		
+		
 	}
 
 }

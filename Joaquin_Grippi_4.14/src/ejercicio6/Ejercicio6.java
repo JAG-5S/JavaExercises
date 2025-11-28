@@ -1,3 +1,8 @@
+/*
+ * Autor: Joaquin Grippi
+ * Descripcion: Programa que devuelve una seroe de precios con su IVA
+ * Fecha: 24/11/25
+ */
 package ejercicio6;
 import java.util.Scanner;
 public class Ejercicio6 {
