@@ -12,7 +12,7 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 	       	//1 
 	        int maxPuntos = (int)(Math.random() * (31)) + 30;
-	        System.out.println("Número máximo de puntos: " + maxPuntos);
+	        System.out.println("Numero maximo de puntos: " + maxPuntos);
 	        
 	        //2  creo los dados
 	        Dado dado1 = new Dado(6);
@@ -20,18 +20,17 @@ public class Ejercicio1 {
 	        Dado dado3 = new Dado(6);
 
 	        int sumaTotal = 0;
-
+	        //En un try catch no poner valores Repetidos, colocar los valores por defecto.
 	        int ultimoDado1 = 0;
 	        int ultimoDado2 = 0;
 	        int ultimoDado3 = 0;
 
 	        System.out.println("\nLanzamientos:");
 
-	        //3 Lanzo los dados
+	        //3 Apuntes personales:  Lanzo los dados, se Podia hacer con un array de manera que usamos el getNumeroLanzamientos(). Array Bidimensional.
 	        boolean contadorBucle = false;
 	        int sumaFTotal =0;
 	        while (sumaFTotal < maxPuntos) {
-	        	
 	        	
 	        	try {
 	        		ultimoDado1 = dado1.lanzar();
@@ -54,7 +53,7 @@ public class Ejercicio1 {
 
 	        //4. Determino el dado ganador
 	        Dado ganador = dado1;
-	        //Convinardado 1 con tipo int para decir que es ganador.
+	        // Apuntes personales: Combinar dado 1 con tipo int para decir que es ganador.
 	        int puntosGanador = ultimoDado1;
 	        
 	        if (ultimoDado2 > puntosGanador) {
@@ -69,11 +68,11 @@ public class Ejercicio1 {
 	        //5
 	        System.out.println("\n--- RESULTADOS FINALES ---");
 	        System.out.println("Suma total de puntuaciones: " + sumaTotal);
-	        System.out.println("Dado ganador: Dado" + ganador);
+	        System.out.println("Dado ganador: Dado" + ganador.toString());
 	        System.out.println("Puntos obtenidos en el último lanzamiento: " + puntosGanador);
-	        System.out.println("Número de veces que ha salido la puntuación del dado ganador: " + ganador.getNumeroVecesCara(puntosGanador));
-	        System.out.println("Número total de lanzamientos entre todos los dados: " + Dado.getNumeroLanzamientosGlobal());
-	        System.out.println("Serie histórica de lanzamientos del dado ganador: " + ganador.getSerieHistoricaLanzamientos());
+	        System.out.println("Numero de veces que ha salido la puntuacion del dado ganador: " + ganador.getNumeroVecesCara(puntosGanador));
+	        System.out.println("Numero total de lanzamientos entre todos los dados: " + Dado.getNumeroLanzamientosGlobal());
+	        System.out.println("Serie historica de lanzamientos del dado ganador: " + ganador.getSerieHistoricaLanzamientos());
 	    }
 
 	}
