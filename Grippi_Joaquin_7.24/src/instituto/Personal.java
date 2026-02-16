@@ -111,8 +111,8 @@ public class Personal {
 
 	}
 	//CALCULADOR DE AÑOS RESTANTES PARA JUBILACION
-	protected void anyosJubilacion (int edad){ // he modifica el tipo devuelto del metodo, no le veo sentido que sea tipo int, ya que es una consulta del tiempo restante a la jubilacion
-		System.out.println("El tiempo restante para la jubilacion es de " + (edad - 66) + " años.");
+	protected void anyosJubilacion (){ // he modifica el tipo devuelto del metodo, no le veo sentido que sea tipo int, ya que es una consulta del tiempo restante a la jubilacion
+		System.out.println("El tiempo restante para la jubilacion es de " + (this.edad - 66) + " años.");
 	}
 	//TOSTRING
 	public String toString() {
