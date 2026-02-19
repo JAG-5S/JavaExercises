@@ -9129,3 +9129,393 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-16 16:38:01.625
 !MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+!SESSION 2026-02-18 17:11:25.800 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-18 17:11:28.977
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (615) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 17:11:29.217
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 17:11:36.987
+!MESSAGE Logback config file: C:\Users\DAW1\Desktop\EjerciciosJAVA\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-18 17:11:44.362
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DAW1'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 17:11:46.429
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+!SESSION 2026-02-18 19:46:29.762 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-18 19:46:31.419
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (615) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 19:46:31.636
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-18 19:46:35.974
+!MESSAGE Logback config file: C:\Users\DAW1\Desktop\EjerciciosJAVA\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-18 19:46:42.344
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DAW1'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 19:46:43.730
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:46:44.307
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:46:48.311
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:46:56.329
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:47:12.346
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:47:44.349
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:48:48.353
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:49:52.357
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:50:56.362
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 19:51:43.736
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:52:00.367
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:53:04.370
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:54:08.375
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:55:12.379
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:56:16.385
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 19:56:43.742
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:57:20.388
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:58:24.393
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 19:59:28.399
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:00:32.404
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:01:36.407
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:01:43.749
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:02:40.412
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:03:44.416
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:04:48.419
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:05:52.423
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:06:43.756
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:06:56.428
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:08:00.432
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:09:04.437
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:10:08.442
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:11:12.446
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:11:43.762
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:12:16.450
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:13:20.458
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:14:24.463
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:15:28.468
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:16:32.471
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:16:43.767
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:17:36.475
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:18:40.480
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:19:44.485
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:20:48.489
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:21:43.774
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:21:52.494
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:22:56.497
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:24:00.502
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:25:04.506
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:26:08.509
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:26:43.780
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:27:12.514
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:28:16.518
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:29:20.524
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:30:24.529
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:31:28.533
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:31:43.785
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:32:32.537
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:33:36.540
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:34:40.545
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:35:44.549
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:36:43.792
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:36:48.553
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:37:52.560
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:38:56.565
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:40:00.570
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:41:04.573
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:41:43.798
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:42:08.578
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:43:12.582
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:44:16.585
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:45:20.589
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:46:24.594
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:46:43.805
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:47:28.597
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:48:32.602
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:49:36.606
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:50:40.611
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:51:43.811
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:51:44.614
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:52:48.620
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:53:52.623
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:54:56.627
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:56:00.631
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 20:56:43.816
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:57:04.635
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:58:08.638
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 20:59:12.642
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:00:16.647
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:01:20.651
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 21:01:43.822
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:02:24.654
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:03:28.658
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:04:32.663
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:05:36.667
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:06:40.676
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 21:06:43.830
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:07:44.680
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:08:48.685
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:09:52.689
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:10:56.693
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2026-02-18 21:11:43.834
+!MESSAGE Phone home failed due to the following issue: app.codetogether.com
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:12:00.698
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:13:04.703
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:14:08.706
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-18 21:15:12.710
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
+!SESSION 2026-02-19 16:18:13.042 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2026-02-19 16:18:16.414
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (615) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 16:18:16.670
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 16:18:22.580
+!MESSAGE Logback config file: C:\Users\DAW1\Desktop\EjerciciosJAVA\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-19 16:18:30.062
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\DAW1'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.codetogether.ui 1 0 2026-02-19 16:18:32.073
+!MESSAGE No proxy data found for url: https://live.codetogether.io/ct-url
